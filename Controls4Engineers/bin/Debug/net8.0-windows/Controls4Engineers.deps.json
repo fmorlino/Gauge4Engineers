@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Controls4Engineers/1.0.0": {
+        "runtime": {
+          "Controls4Engineers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controls4Engineers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Controls4Engineers_WinformTest/1.0.0": {
+        "dependencies": {
+          "Controls4Engineers": "1.0.0"
+        },
+        "runtime": {
+          "Controls4Engineers_WinformTest.dll": {}
+        }
+      },
+      "Controls4Engineers/1.0.0": {
+        "runtime": {
+          "Controls4Engineers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controls4Engineers_WinformTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Controls4Engineers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

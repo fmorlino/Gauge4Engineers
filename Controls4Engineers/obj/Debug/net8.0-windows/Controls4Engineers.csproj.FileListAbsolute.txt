@@ -1,0 +1,13 @@
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\bin\Debug\net8.0-windows\Controls4Engineers.deps.json
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\bin\Debug\net8.0-windows\Controls4Engineers.dll
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\bin\Debug\net8.0-windows\Controls4Engineers.pdb
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.AssemblyInfoInputs.cache
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.AssemblyInfo.cs
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.dll
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\refint\Controls4Engineers.dll
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.pdb
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\ref\Controls4Engineers.dll
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.Gauge4Engineers.resources
+C:\Users\Fabrizio Morlino\Documents\PROGETTI_VS\Controls4Engineers\obj\Debug\net8.0-windows\Controls4Engineers.csproj.GenerateResource.cache

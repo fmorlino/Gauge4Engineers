@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Fabrizio Morlino\\Documents\\PROGETTI_VS\\Controls4Engineers\\Controls4Engineers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Fabrizio Morlino\\Documents\\PROGETTI_VS\\Controls4Engineers\\Controls4Engineers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Fabrizio Morlino\\Documents\\PROGETTI_VS\\Controls4Engineers\\Controls4Engineers.csproj",
+        "projectName": "Controls4Engineers",
+        "projectPath": "C:\\Users\\Fabrizio Morlino\\Documents\\PROGETTI_VS\\Controls4Engineers\\Controls4Engineers.csproj",
+        "packagesPath": "C:\\Users\\Fabrizio Morlino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fabrizio Morlino\\Documents\\PROGETTI_VS\\Controls4Engineers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Nevron Software\\Nevron Open Vision 2024.1\\NugetPackage"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fabrizio Morlino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\NevronOpenVision.24.6.5.12.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Nevron Software\\Nevron Open Vision 2024.1\\NugetPackage\\nevronopenvision": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
